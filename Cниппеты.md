@@ -8,3 +8,4 @@ git add . && git commit -m "Сообщение"
 Посмотреть изменения с подсветкой:
 ```bash
 git diff | delta
+```
